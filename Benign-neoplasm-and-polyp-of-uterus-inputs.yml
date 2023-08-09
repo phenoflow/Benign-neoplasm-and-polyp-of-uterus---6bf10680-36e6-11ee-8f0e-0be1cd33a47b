@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/endoscopic-benign-neoplasm-and-polyp-of-uterus---primary.py
+inputModule3:
+  class: File
+  path: python/other-benign-neoplasm-and-polyp-of-uterus---primary.py
+inputModule4:
+  class: File
+  path: python/benign-neoplasm-and-polyp-of-uterus-uteri---primary.py
+inputModule5:
+  class: File
+  path: python/endometrial-benign-neoplasm-and-polyp-of-uterus---primary.py
+inputModule6:
+  class: File
+  path: python/benign-neoplasm-and-polyp-of-uterus---primary.py
+inputModule7:
+  class: File
+  path: python/benign-neoplasm-and-polyp-of-uterus-uteri---secondary.py
+inputModule8:
+  class: File
+  path: python/other-benign-neoplasm-and-polyp-of-uterus---secondary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
